@@ -24,7 +24,7 @@ The car price prediction application allows users to input details about a car, 
 1. Clone the repository:
 
     ```sh
-    git clone https://github.com/RupenWorks/car-price-predictor
+    https://github.com/RupenWorks/car-price-predictor/tree/main
     ```
 
 2. Set up a virtual environment:
