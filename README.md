@@ -38,7 +38,10 @@ The car price prediction application allows users to input details about a car, 
 3. Install the required packages:
 
     ```sh
-    pip install -r requirements.txt
+    pip install streamlit
+    pip install pandas
+    pip install scikit-learn
+
     ```
 
 4. Place your trained model file (`model.pkl`) and dataset file (`Cardetails.csv`) in the project directory.
